@@ -7,6 +7,8 @@ public class TestJunit {
 	   public void testSetup() {
 	      String str= "I am done with Junit setup";
 	      assertEquals("I am done with Junit setup",str);
+	      System.out.println("postJira1");
+	      System.out.println("postJira2");
 	   }
 	}
 
