@@ -11,6 +11,13 @@ public class TestJunit {
 	      System.out.println("postJira2");
 	      System.out.println("postJira3");
 	      System.out.println("postJira4");
+	      //gsfdsfg
+	      //sfgsfg
+	      //fgdsfg
+	      
+	      System.out.println("postingJira5");
+	      System.out.println("postingJira6");
+	      System.out.println("postingJira7");
 	   }
 	}
 
