@@ -35,5 +35,15 @@ public class TestJunit {
 	 {
 		 System.out.println("testSetup4"); 
 	 }
+	 @Test
+	   public void testSetupNewByGitxxx1()
+	 {
+		 System.out.println("testSetup4 add new by Git XXX"); 
+	 }
+	 @Test
+	   public void testSetupNewByGitxxx2()
+	 {
+		 System.out.println("testSetup4 add new by Git XXX"); 
+	 }
 	}
 
