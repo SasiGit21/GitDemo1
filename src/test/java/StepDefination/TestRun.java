@@ -16,5 +16,9 @@ public class TestRun {
 	      System.out.println("This is also another change");
 	      
 	   }
+	public void test ()
+	{
+		System.out.println("Simple test method");
+	}
 
 }

@@ -19,5 +19,21 @@ public class TestJunit {
 	      System.out.println("postingJira6");
 	      System.out.println("postingJira7");
 	   }
+	 @Test
+	   public void testSetup2() 
+	 {
+		 System.out.println("testSetup2");
+	 }
+	 
+	 @Test
+	   public void testSetup3()
+	 {
+		 System.out.println("testSetup3"); 
+	 }
+	 @Test
+	   public void testSetup4()
+	 {
+		 System.out.println("testSetup4"); 
+	 }
 	}
 
